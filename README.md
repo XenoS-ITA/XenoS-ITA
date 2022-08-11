@@ -21,6 +21,8 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xenos-ita&show_icons=true&locale=en&layout=compact" alt="xenos-ita" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenos-ita&show_icons=true&locale=en" alt="xenos-ita" /></p>
+<p align="center">
+    <img width="420" src="https://github-readme-stats.vercel.app/api?username=XenoS-ITA&count_private=true&show_icons=true&title_color=0071ff&text_color=ffffff&icon_color=0071ff&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false">
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xenos-ita&" alt="xenos-ita" /></p>
