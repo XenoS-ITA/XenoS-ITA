@@ -16,7 +16,7 @@
   <a href="https://www.youtube.com/c/xenos exe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xenos exe" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/https://discord.gg/BV2hsRXmpy" target="blank">
+  <a href="https://discord.gg/BV2hsRXmpy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BV2hsRXmpy" height="30" width="40" />
   </a>
 </p>
