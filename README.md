@@ -22,6 +22,9 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://fivem.net" target="_blank" rel="noreferrer">
+    <img src="https://www.freelogovectors.net/svg09/fivem-logo-freelogovectors.net_.svg" alt="fivem" width="40" height="40" />
+  </a>
   <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" width="40" height="40" />
   </a>
@@ -52,6 +55,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" />
+  </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
   </a>
@@ -61,8 +67,17 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
+  <a href="https://discord.js.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-icon.svg" alt="discord.js" width="40" height="40" />
+  </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+  </a>
+  <a href="https://unity.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
+  </a>
+  <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noreferrer">
+    <img src="https://i.imgur.com/2hU1ia7.png" alt="mkdocs" width="40" height="40" />
   </a>
 </p>
 
