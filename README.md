@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm XenoS</h1>
-<h3 align="center">An enthusiastic developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenos-ita&label=Profile%20views&color=0e75b6&style=flat" alt="xenos-ita" /> </p>
 
-- 🔭 I’m currently working on [**Utility Framework**](https://github.com/utility-library/utility_framework), [**utility_wrapper**](https://github.com/utility-library/utility_wrapper)
+- 🔭 I’m currently working on [**Utility Framework**](https://github.com/utility-library/utility_framework), [**utility_wrapper**](https://github.com/utility-library/utility_wrapper), [**leap**](https://github.com/utility-library/leap)
 
 - 💬 Ask me about **FiveM**
 
